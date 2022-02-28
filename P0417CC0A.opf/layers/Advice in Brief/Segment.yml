@@ -1,0 +1,119 @@
+id: a659cd509ad24a11bc4168f1ad014157
+annotation_type: Segment
+revision: '00001'
+annotations:
+  59ef7e3bcfec4e02a03ce65af6cf9694:
+    span:
+      start: 0
+      end: 15
+    metadata: {}
+  9e1f94ceaab44434bf2ada79d072f6f2:
+    span:
+      start: 17
+      end: 49
+    metadata: {}
+  5500d470495d4df5b55af79d4c0652e8:
+    span:
+      start: 51
+      end: 70
+    metadata: {}
+  2a1ac3d1a7994d2eaae36cd5774d4f65:
+    span:
+      start: 72
+      end: 181
+    metadata: {}
+  eb98175201804ce8bb1ca36fd6dbf82d:
+    span:
+      start: 183
+      end: 261
+    metadata: {}
+  d166654aef864411b3f529dbb95e8713:
+    span:
+      start: 263
+      end: 352
+    metadata: {}
+  1199084a238e4872b8f0bd321b75d73e:
+    span:
+      start: 354
+      end: 454
+    metadata: {}
+  c267ef0fbb1f4f97b49416e76d0f1c42:
+    span:
+      start: 456
+      end: 560
+    metadata: {}
+  aa70f8490cd74e0e8e9a5cd98ba42c75:
+    span:
+      start: 562
+      end: 661
+    metadata: {}
+  3972f81394574dcd8b9e7b3c1291d769:
+    span:
+      start: 663
+      end: 810
+    metadata: {}
+  bcf56fa2112c49f5afa71510575f0d4c:
+    span:
+      start: 812
+      end: 888
+    metadata: {}
+  c5e090b781d4446db2e15655f78ad628:
+    span:
+      start: 890
+      end: 1033
+    metadata: {}
+  b5147c33bdd64fceb2bd1b61cfc11d90:
+    span:
+      start: 1035
+      end: 1105
+    metadata: {}
+  4293b7f4397d45ca8012f92ea319684b:
+    span:
+      start: 1107
+      end: 1254
+    metadata: {}
+  47ecf595961146ff83aca6fa15a49010:
+    span:
+      start: 1256
+      end: 1349
+    metadata: {}
+  cb1f0a4252604fdb99e52b29f199f5f9:
+    span:
+      start: 1351
+      end: 1432
+    metadata: {}
+  6b75b5588e9f44eb8459390f4254013d:
+    span:
+      start: 1434
+      end: 1489
+    metadata: {}
+  9d7ea71a1218460e98828d55eb411203:
+    span:
+      start: 1491
+      end: 1576
+    metadata: {}
+  6742af45a0e149f89dcc3b7d9c69ca0e:
+    span:
+      start: 1578
+      end: 1620
+    metadata: {}
+  e6f2cae9c5f44515a66f97b772ce8188:
+    span:
+      start: 1622
+      end: 1714
+    metadata: {}
+  4a4cb46850bc4646b450e4de992743f9:
+    span:
+      start: 1716
+      end: 1792
+    metadata: {}
+  7687b5d78cb34f70afd7fefffc147d2a:
+    span:
+      start: 1794
+      end: 1818
+    metadata: {}
+  e3cf5f1827e147bf801f779d3b1deb03:
+    span:
+      start: 1820
+      end: 1932
+    metadata: {}
